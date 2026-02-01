@@ -1,45 +1,28 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 
 <h1 align="center">Hello 👋, I'm Gokulnath B S</h1>
-<h3 align="center">
-A passionate Web Developer exploring AI-powered web systems & Automation
-</h3>
+<h3 align="center">A passionate Web Developer exploring AI-powered web systems and Automation</h3>
 
-<img align="right" alt="Coder" width="400"
-src="https://camo.githubusercontent.com/5665b6754819ad9967b5e87d8682acc727c604be9780f406121bad47ef3bc404/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626e5a75626e63346254427663324d305a3356314d574a3165445a7064576432637a6c796348686e4f476b346454566e646d70684e535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f52706c31736f64317643584b304c3253554e2f67697068792e676966">
+<img align="right" alt="Coder" width="400" src="https://camo.githubusercontent.com/5665b6754819ad9967b5e87d8682acc727c604be9780f406121bad47ef3bc404/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626e5a75626e63346254427663324d305a3356314d574a3165445a7064576432637a6c796348686e4f476b346454566e646d70684e535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f52706c31736f64317643584b304c3253554e2f67697068792e676966">
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=bs-gokulnath&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-gokulnath&label=Profile%20views&color=0e75b6&style=flat" alt="bs-gokulnath" /> </p>
 
-### 🔭 Current Work
-- **Automating OCPP log insights for EV charger operations**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bs-gokulnath" alt="bs-gokulnath" /></a> </p>
 
-### 🌱 Learning
-- **AI • Backend Systems • Blockchain**
+- 🔭 I’m currently working on **Automating OCPP log insights for EV charger operations**
 
-### 👨‍💻 Portfolio
-- https://gokulnath.me/
+- 🌱 I’m currently learning **AI, Blockchain, Backend systems**
 
-### 📫 Contact
-- **bs.gokulnath18@gmail.com**
+- 👨‍💻 All of my projects are available at [https://gokulnath.me/](https://gokulnath.me/)
 
----
+- 📫 How to reach me **bs.gokulnath18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gokulnath-bs">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/gokulnath_b_s">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-</a>
+<a href="https://linkedin.com/in/gokulnath-bs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokulnath-bs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gokulnath_b_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gokulnath_b_s" height="30" width="40" /></a>
 </p>
-
----
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -92,30 +75,14 @@ src="https://camo.githubusercontent.com/5665b6754819ad9967b5e87d8682acc727c604be
 </table>
 
 
-<br/><br/>
-
----
-
-## 🐍 Contribution Snake
 ![GitHub Snake](https://raw.githubusercontent.com/Bs-Gokulnath/Bs-Gokulnath/output/github-contribution-grid-snake-dark.svg)
 
-<!-- OPTIONAL: Use Pacman instead of Snake (not both)
+## 🟡 Pac-Man Contribution Graph
+
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/Bs-Gokulnath/Bs-Gokulnath/pacman/pacman-contribution-graph.svg)
--->
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bs-gokulnath&show_icons=true&locale=en&layout=compact" alt="bs-gokulnath" /></p>
 
-<p>
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=bs-gokulnath&layout=compact" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bs-gokulnath&show_icons=true&locale=en" alt="bs-gokulnath" /></p>
 
-<p>
-<img align="center"
-src="https://github-readme-stats.vercel.app/api?username=bs-gokulnath&show_icons=true" />
-</p>
-
-<p>
-<img align="center"
-src="https://github-readme-streak-stats.herokuapp.com/?user=bs-gokulnath" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bs-gokulnath&" alt="bs-gokulnath" /></p>
