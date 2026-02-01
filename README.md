@@ -77,8 +77,6 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/Bs-Gokulnath/Bs-Gokulnath/output/github-contribution-grid-snake-dark.svg)
 
-## 🟡 Pac-Man Contribution Graph
-
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/Bs-Gokulnath/Bs-Gokulnath/pacman/pacman-contribution-graph.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bs-gokulnath&show_icons=true&locale=en&layout=compact" alt="bs-gokulnath" /></p>
