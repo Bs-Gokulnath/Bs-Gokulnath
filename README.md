@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Gokulnath B S</h1>
 <h3 align="center">A passionate Web Developer exploring AI-powered web systems and Automation</h3>
 
-<img align="right" alt="Coder" width="400" src="https://cdn.dribbble.com/userupload/22553452/file/original-bef4c9d5b9e203e1595b4caee2cb1008.gif">
+<img align="right" alt="Coder" width="400" src="https://camo.githubusercontent.com/5665b6754819ad9967b5e87d8682acc727c604be9780f406121bad47ef3bc404/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626e5a75626e63346254427663324d305a3356314d574a3165445a7064576432637a6c796348686e4f476b346454566e646d70684e535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f52706c31736f64317643584b304c3253554e2f67697068792e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-gokulnath&label=Profile%20views&color=0e75b6&style=flat" alt="bs-gokulnath" /> </p>
