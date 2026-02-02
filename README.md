@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bs-gokulnath&label=Profile%20views&color=0e75b6&style=flat" alt="bs-gokulnath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bs-gokulnath" alt="bs-gokulnath" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bs-gokulnath" " /></a> </p>
 
 - 🔭 I’m currently working on **Automating OCPP log insights for EV charger operations**
 
@@ -77,10 +77,8 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/Bs-Gokulnath/Bs-Gokulnath/output/github-contribution-grid-snake-dark.svg)
 
-![Pacman Contribution Graph](https://raw.githubusercontent.com/Bs-Gokulnath/Bs-Gokulnath/pacman/pacman-contribution-graph.svg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bs-Gokulnath&show_icons=true&locale=en&layout=compact" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bs-gokulnath&show_icons=true&locale=en&layout=compact" alt="bs-gokulnath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bs-Gokulnath&show_icons=true&locale=en" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bs-gokulnath&show_icons=true&locale=en" alt="bs-gokulnath" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bs-gokulnath&" alt="bs-gokulnath" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bs-Gokulnath&" /></p>
