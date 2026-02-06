@@ -58,7 +58,7 @@
 
 <td width="33%" valign="top">
 
-### 🟢 Crivo  
+### 🟢 Crivo Tech
 **Freelance Full Stack Developer**  
 
 📅 2024 – 2025  
